@@ -29,6 +29,10 @@ Management has commissioned you to build an automated, reliable Power BI Financi
 SELECT A,B,C
 WHERE A > B
 ```
+### VISUALIZATION
+<img width="1200" height="1692" alt="Pie chat" src="https://github.com/user-attachments/assets/ec5e5b63-c074-4e19-95d8-4f39b07f5c4f" />
+<img width="600" height="700" alt="Bar chart" src="https://github.com/user-attachments/assets/909bd6fa-b519-4142-bc4f-5a6ee578c1cd" />
+
 
 
 
