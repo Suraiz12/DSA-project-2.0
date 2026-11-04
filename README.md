@@ -19,6 +19,18 @@ Management has commissioned you to build an automated, reliable Power BI Financi
   -  Evaluate branch-level and department-level cost efficiencies.
   - Provide data-backed actionable strategic recommendations for executive leadership.
 
+ ### ASSIGNMENT DELIVERABLES
+  1. Fully cleansed and modeled Power BI Data Model (.pbix).
+  2. Standardized Profit & Loss Financial Statement matrix report.
+  3. Executive Business Dashboard featuring Time Intelligence (YoY, MoM) and Expense Breakdown visuals.
+  4. Concise Management Narrative summarizing key findings and 3 strategic recommendations.
+
+```
+SELECT A,B,C
+WHERE A > B
+```
+
+
 
 
 This is where I built my first portfolio while learning at the incubator HUB
